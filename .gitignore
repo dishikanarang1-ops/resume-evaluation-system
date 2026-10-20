@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+resume.pdf
+job_description.pdf
+.venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
